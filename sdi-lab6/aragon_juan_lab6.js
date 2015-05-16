@@ -6,7 +6,7 @@ function myPrincipalFunction() {
 //local variables
 
     var soccerTeams = ["Real Madrid", "Manchester United", "Bayen Munchen", "Ac Milan", "Oporto"];
-//    var countriesTeam = [" Spain", " England", " Germany", " Italy", " Portugal"];
+    var countriesTeam = [" Spain", " England", " Germany", " Italy", " Portugal"];
 //
 //    //loop
 //    for (var i = 0; i < soccerTeams.length; i++) {
