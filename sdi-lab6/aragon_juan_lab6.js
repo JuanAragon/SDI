@@ -1,6 +1,6 @@
 //alert("JavaScript works!");
 
-////function
+//function
 function myPrincipalFunction() {
 
 //local variables
@@ -24,6 +24,6 @@ function myPrincipalFunction() {
 
 }
 
-////main code
-//myPrincipalFunction();
+//main code
+myPrincipalFunction();
 
