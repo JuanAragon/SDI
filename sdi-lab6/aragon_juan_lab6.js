@@ -14,16 +14,16 @@ function myPrincipalFunction() {
         console.log(soccerTeams[i] + " is from " + countriesTeam[i]);
 
     }
-//
-//    //pushes
-//    soccerTeams.push("Millonarios");
-//    console.log(soccerTeams[i] + " is the new team");
-//
-//    countriesTeam.push("Colombia");
-//    console.log(countriesTeam[i] + " is the new country");
-//
-//}
-//
+
+    //pushes
+    soccerTeams.push("Millonarios");
+    console.log(soccerTeams[i] + " is the new team");
+
+    countriesTeam.push("Colombia");
+    console.log(countriesTeam[i] + " is the new country");
+
+}
+
 //////main code
 //myPrincipalFunction();
 
