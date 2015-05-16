@@ -3,9 +3,9 @@
 ////function
 function myPrincipalFunction() {
 
-////local variables
-//
-//    var soccerTeams = ["Real Madrid", "Manchester United", "Bayen Munchen", "Ac Milan", "Oporto"];
+//local variables
+
+    var soccerTeams = ["Real Madrid", "Manchester United", "Bayen Munchen", "Ac Milan", "Oporto"];
 //    var countriesTeam = [" Spain", " England", " Germany", " Italy", " Portugal"];
 //
 //    //loop
