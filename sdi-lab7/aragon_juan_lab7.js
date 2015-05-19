@@ -11,22 +11,22 @@ function myPrincipalFunction(firstArgument){
 
     for (var a = 0; a < firstArgument.length; a ++) {
 
-//        for (var i = 0; i < firstArgument.length; i++) {
-//
-//            if (firstArgument[i] > firstArgument[i + 1]) {
-//
-//                newVariable = firstArgument [i];
-//
-//                firstArgument[i] = firstArgument [i + 1];
-//
-//                firstArgument [i + 1] = newVariable;
-//
-//
-//            }
-//
-//        }
-//    }
-//
+        for (var i = 0; i < firstArgument.length; i++) {
+
+            if (firstArgument[i] > firstArgument[i + 1]) {
+
+                newVariable = firstArgument [i];
+
+                firstArgument[i] = firstArgument [i + 1];
+
+                firstArgument [i + 1] = newVariable;
+
+
+            }
+
+        }
+    }
+
 //return firstArgument;
 //}
 //
