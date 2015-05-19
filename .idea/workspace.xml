@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="010a44df-bfd0-449d-94c2-68809879bdf9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day Seven/js/script.js" afterPath="$PROJECT_DIR$/Day Seven/js/script.js" />
-    </list>
+    <list default="true" id="010a44df-bfd0-449d-94c2-68809879bdf9" name="Default" comment="" />
     <ignored path="SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
