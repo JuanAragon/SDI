@@ -31,28 +31,28 @@ return firstArgument;
 }
 
 
-////main code
-//
-//for (var b = 0; b < 3; b++) {
-//
-//    if (b === 0) {
-//
-//        returnedArray = myPrincipalFunction(firstSet);
-//
-//
-//    } else if (b === 1) {
-//
-//        returnedArray = myPrincipalFunction(secondSet);
-//
-//
-//    } else if (b === 2) {
-//
-//        returnedArray = myPrincipalFunction(thirdSet);
-//
-//    }
-//
-//    console.log("The correct order for the following set is: " + returnedArray)
-//
-//}
+//main code
+
+for (var b = 0; b < 3; b++) {
+
+    if (b === 0) {
+
+        returnedArray = myPrincipalFunction(firstSet);
+
+
+    } else if (b === 1) {
+
+        returnedArray = myPrincipalFunction(secondSet);
+
+
+    } else if (b === 2) {
+
+        returnedArray = myPrincipalFunction(thirdSet);
+
+    }
+
+    console.log("The correct order for the following set is: " + returnedArray)
+
+}
 
 
