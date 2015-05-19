@@ -27,10 +27,10 @@ function myPrincipalFunction(firstArgument){
         }
     }
 
-//return firstArgument;
-//}
-//
-//
+return firstArgument;
+}
+
+
 ////main code
 //
 //for (var b = 0; b < 3; b++) {
