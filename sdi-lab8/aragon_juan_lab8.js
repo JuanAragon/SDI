@@ -48,9 +48,18 @@ function firstValue(stringArgument, separatedArgument, newSeparatedArgument){
     var newString;
     var newVariable;
 
-    
+    newString = stringArgument.split(separatedArgument);
+
+    for(var i = 0; i < newString.length; i++){
+
+        
+    }
+
+    return newString
 
 }
+returnedValue = firstValue(firstString,secondString,thirdString);
+console.log(returnedValue);
 
 
 
