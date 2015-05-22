@@ -45,21 +45,36 @@ var returnedValue;
 
 function firstValue(stringArgument, separatedArgument, newSeparatedArgument){
 
-    var newString;
-    var newVariable;
 
+    //Local variables
+    var newString;
+    var newVariable = "";
+
+    //Method
     newString = stringArgument.split(separatedArgument);
 
+    //For Statement
     for(var i = 0; i < newString.length; i++){
 
-        
+        if(i === newString.length -1){
+
+            newVariable = newVariable + newString[i];
+        }else {
+
+            newVariable = newVariable + newString[i] + newSeparatedArgument;
+
+        }
+
+
     }
 
-    return newString
+    return newVariable;
 
 }
+//Main Code
 returnedValue = firstValue(firstString,secondString,thirdString);
-console.log(returnedValue);
+console.log("Before I go to school, I take my " + returnedValue + ".");
+
 
 
 
