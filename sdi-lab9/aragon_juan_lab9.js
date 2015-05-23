@@ -2,13 +2,19 @@
 
 //Problem 1
 var firstNumber = 5.1889664497874784477478
-var secondnumber = 3
+var secondNumber = 3
 var returnValue;
 
-function FirstValue(num1, num2){
+function firstValue(num1, num2){
 
     num1 = num1.toFixed(num2);
 
-    return num1
+    return num1;
 
 }
+
+returnValue = firstValue(firstNumber, secondNumber);
+
+console.log(returnValue);
+
+console.log("The number " + firstNumber + " with 3 specified numbers is " + returnValue);
