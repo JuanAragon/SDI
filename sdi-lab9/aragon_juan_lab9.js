@@ -11,7 +11,7 @@ var returnResult;
 //Problem 3 variables
 var firstDate = "03/20/2015";
 var secondDate = "03/20/2016";
-var daysOrHours = prompt("Please enter the word hour or the word date");
+var daysOrHours = prompt("Please enter the word hour or the word day");
 
 
 // function problem 1
