@@ -36,8 +36,9 @@ function convertToNumber(stringArg){
 
         result = parseFloat(stringArg)
 
-        return result;
     }
+
+    return result;
 }
 
 // function problem 3
