@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="010a44df-bfd0-449d-94c2-68809879bdf9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sdi-lab9/aragon_juan_lab9.js" afterPath="$PROJECT_DIR$/sdi-lab9/aragon_juan_lab9.js" />
-    </list>
+    <list default="true" id="010a44df-bfd0-449d-94c2-68809879bdf9" name="Default" comment="" />
     <ignored path="SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/sdi-lab9/aragon_juan_lab9.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.27349228">
-              <caret line="13" column="71" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="71" />
+              <caret line="13" column="71" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
               <folding />
             </state>
           </provider>
@@ -669,14 +667,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day Nine/Day Nine.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15239477">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day Nine/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -684,6 +674,14 @@
           <folding>
             <element signature="n#!!doc;n#goodDates#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day Nine/Day Nine.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -698,7 +696,7 @@
     <entry file="file://$PROJECT_DIR$/sdi-lab9/aragon_juan_lab9.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27349228">
-          <caret line="13" column="71" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="71" />
+          <caret line="13" column="71" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
           <folding />
         </state>
       </provider>
