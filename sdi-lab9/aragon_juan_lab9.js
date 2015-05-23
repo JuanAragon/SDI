@@ -51,11 +51,11 @@ function convertDate(dateOne, dateTwo){
 
     if (daysOrHours === "hour") {
 
-        dateDiff = Math.abs(dateDiff / 1000 / 60 / 60 / 24);
+        dateDiff = Math.abs(dateDiff / 1000 / 60 / 60 );
 
     } else if( daysOrHours === "day"){
 
-        dateDiff = Math.abs(dateDiff / 1000 / 60 / 60);
+        dateDiff = Math.abs(dateDiff / 1000 / 60 / 60 / 24);
 
     }
 
