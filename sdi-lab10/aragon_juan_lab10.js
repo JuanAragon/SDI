@@ -8,17 +8,17 @@ var numberPrompt = prompt("Please choose between this two options : Powerball or
 function LotteryOptions(argNumber){
 
     //Local variable
-    var returnAnswer = [];
+    var returnEqual = [];
 
     //If for Powerball
     if (argNumber === "PowerBall"){
 
         for(var i = 0; i < 5; i++) {
 
-            returnAnswer.push(Math.round(Math.random() * (59 - 1) + 1));
+            returnEqual.push(Math.round(Math.random() * (59 - 1) + 1));
         }
 
-        returnAnswer.push(Math.round(Math.random() * (35 - 1) + 1));
+        returnEqual.push(Math.round(Math.random() * (35 - 1) + 1));
 
     }
 
@@ -27,11 +27,11 @@ function LotteryOptions(argNumber){
 
         for(var i = 0; i < 6; i++){
 
-            returnAnswer.push(Math.round(Math.random() * (53 - 1) + 1));
+            returnEqual.push(Math.round(Math.random() * (53 - 1) + 1));
         }
     }
 
-    return returnAnswer;
+    return returnEqual;
 
 }
 
