@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="010a44df-bfd0-449d-94c2-68809879bdf9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sdi-lab10/aragon_juan_lab10.js" afterPath="$PROJECT_DIR$/sdi-lab10/aragon_juan_lab10.js" />
     </list>
     <ignored path="SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,8 +36,8 @@
       <file leaf-file-name="aragon_juan_lab10.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sdi-lab10/aragon_juan_lab10.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10518934">
-              <caret line="5" column="99" selection-start-line="5" selection-start-column="99" selection-end-line="5" selection-end-column="99" />
+            <state vertical-scroll-proportion="0.3997195">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -705,8 +705,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sdi-lab10/aragon_juan_lab10.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10518934">
-          <caret line="5" column="99" selection-start-line="5" selection-start-column="99" selection-end-line="5" selection-end-column="99" />
+        <state vertical-scroll-proportion="0.3997195">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="18" />
           <folding />
         </state>
       </provider>
