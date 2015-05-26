@@ -11,7 +11,7 @@ function lotteryOptions(argNumber){
     var returnEqual = [];
 
     //If for Powerball
-    if (argNumber === "PowerBall"){
+    if (argNumber === "Powerball"){
 
         for(var i = 0; i < 5; i++) {
 
