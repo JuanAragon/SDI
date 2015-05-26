@@ -42,4 +42,7 @@ if(numberPrompt === "Powerball"){
     resultNumber = returnedAnswer.pop();
     console.log("Your 'QuickPick' chosen numbers for the Powerball are: " + returnedAnswer + " with a Powerball of " + resultNumber);
 
-}else if(numberPrompt === "Florida Lottery"){}
+}else if(numberPrompt === "Florida Lottery"){
+
+    console.log("Your 'QuickPick' chosen numbers for the Florida Lottery are: " + returnedAnswer);
+}
