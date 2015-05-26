@@ -7,6 +7,7 @@ var numberPrompt = prompt("Please choose between this two options : Powerball or
 
 function LotteryOptions(argNumber){
 
+    //Local variable
     var returnAnswer = [];
 
     //If for Powerball
@@ -17,7 +18,21 @@ function LotteryOptions(argNumber){
             returnAnswer.push(Math.round(Math.random() * (59 - 1) + 1));
         }
 
-        returnAnswer.push(Math.round(Math.random() * (35-1) + 1));
+        returnAnswer.push(Math.round(Math.random() * (35 - 1) + 1));
 
     }
+
+    //If for Florida Lottery
+    if (argNumber === "Florida Lottery"){
+
+        for(var i = 0; i < 6; i++){
+
+            returnAnswer.push(Math.round(Math.random() * (53 - 1) + 1));
+        }
+    }
+
+    return returnAnswer;
+
 }
+
+//Main Code
