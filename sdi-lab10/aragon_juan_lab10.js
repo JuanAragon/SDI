@@ -5,7 +5,7 @@ var returnedAnswer;
 var resultNumber;
 var numberPrompt = prompt("Please choose between this two options : Powerball or Florida Lottery");
 
-function LotteryOptions(argNumber){
+function lotteryOptions(argNumber){
 
     //Local variable
     var returnEqual = [];
@@ -36,3 +36,10 @@ function LotteryOptions(argNumber){
 }
 
 //Main Code
+returnedAnswer = lotteryOptions(numberPrompt);
+
+if(numberPrompt === "Powerball"){
+    resultNumber = returnedAnswer.pop();
+    console.log("Your 'QuickPick' chosen numbers for the Powerball are: " + returnedAnswer + " with a Powerball of " + resultNumber);
+
+}else if(numberPrompt === "Florida Lottery"){}
