@@ -1,7 +1,7 @@
 //alert("JavaScript works!");
 
 //Global Variables
-var returnedAnswer;
+//var returnedAnswer;
 var resultNumber;
 var numberPrompt = prompt("Please choose between this two options : Powerball or Florida Lottery");
 
@@ -36,13 +36,13 @@ function lotteryOptions(argNumber){
 }
 
 //Main Code
-returnedAnswer = lotteryOptions(numberPrompt);
+//returnedAnswer = lotteryOptions(numberPrompt);
 
 if(numberPrompt === "Powerball"){
     resultNumber = returnedAnswer.pop();
-    console.log("Your 'QuickPick' chosen numbers for the Powerball are: " + returnedAnswer + " with a Powerball of " + resultNumber);
+    console.log("Your 'QuickPick' chosen numbers for the Powerball are: " + lotteryOptions(numberPrompt) + " with a Powerball of " + resultNumber);
 
 }else if(numberPrompt === "Florida Lottery"){
 
-    console.log("Your 'QuickPick' chosen numbers for the Florida Lottery are: " + returnedAnswer);
+    console.log("Your 'QuickPick' chosen numbers for the Florida Lottery are: " + lotteryOptions(numberPrompt));
 }
